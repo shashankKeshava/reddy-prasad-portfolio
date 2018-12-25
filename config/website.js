@@ -3,7 +3,7 @@ const tailwind = require("../tailwind");
 module.exports = {
     pathPrefix: "/", // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "/portfolio"
 
-    siteTitle: "Reddy Prasad Papireddy Portfolio", // Navigation and Site Title
+    siteTitle: "Reddy Prasad Papireddy", // Navigation and Site Title
     siteTitleAlt: "Reddy Prasad", // Alternative Site title for SEO
     siteUrl: "https://portfolio-cara.netlify.com", // Domain of your site. No trailing slash!
     siteLanguage: "en", // Language Tag on <html> element

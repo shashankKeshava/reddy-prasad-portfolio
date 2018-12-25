@@ -300,7 +300,7 @@ const Index = () => (
                     </BigTitle>
                     <Subtitle>
                         I'm Senior Software Engineer at Intuit with 10+ years
-                        experince in software industry.
+                        experience in software industry.
                     </Subtitle>
                 </Hero>
             </Content>
@@ -312,7 +312,7 @@ const Index = () => (
             />
             <Content speed={0.4} offset={1.2} factor={2}>
                 <Inner>
-                    <Title>Experience</Title>
+                    <Title>experience</Title>
                     <ProjectsWrapper>
                         <ProjectCard
                             title="Intuit"
