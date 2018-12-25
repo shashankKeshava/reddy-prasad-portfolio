@@ -312,7 +312,7 @@ const Index = () => (
             />
             <Content speed={0.4} offset={1.2} factor={2}>
                 <Inner>
-                    <Title>experience</Title>
+                    <Title>Experience</Title>
                     <ProjectsWrapper>
                         <ProjectCard
                             title="Intuit"
