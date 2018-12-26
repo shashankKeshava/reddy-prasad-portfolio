@@ -637,7 +637,7 @@ const Index = () => (
                 <Inner>
                     <Title>Get in touch</Title>
                     <ContactText>
-                        Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or
+                        Say <a href="mailto:prprasadreddy@gmail.com">Hi</a> or
                         find me on other platforms:{" "}
                         <a href="https://www.linkedin.com/in/reddy-prasad-77668817/">
                             LinkedIn
