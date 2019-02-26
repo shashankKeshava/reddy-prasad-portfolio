@@ -1,0 +1,24 @@
+{
+  "projectName": "reddy-prasad-portfolio",
+  "projectOwner": "shashankKeshava",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "shashankKeshava",
+      "name": "Shashank Keshava",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15323807?v=4",
+      "profile": "https://www.shashankkeshava.com/",
+      "contributions": [
+        "code",
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
